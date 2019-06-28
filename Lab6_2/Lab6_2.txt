@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/ArrayList.cpp.o ./Debug/Triangle.cpp.o
